@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "id": "bemyfriends",
+    "name_ko": "비마이프렌즈 (b.stage)",
+    "name_en": "bemyfriends (b.stage)",
+    "last_updated": "2026-03-01",
+    "data_confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.venturesquare.net/1033060",
+        "title": "비스테이지, 월간 활성화 유료 구독자 100만 명 돌파",
+        "date": "2025-12",
+        "type": "news"
+      },
+      {
+        "url": "https://besuccess.com/?p=180265",
+        "title": "비마이프렌즈·드림어스컴퍼니, 글로벌 슈퍼팬 생태계 비전 발표",
+        "date": "2026-02",
+        "type": "news"
+      },
+      {
+        "url": "https://www.sedaily.com/NewsView/2H0MPAEIJQ",
+        "title": "비마이프렌즈, 드림어스 인수 완료…팬덤 사업 생태계 확장",
+        "date": "2025-11",
+        "type": "news"
+      },
+      {
+        "url": "https://www.musicbusinessworldwide.com/k-pop-superfan-platform-bemyfriends-a-rival-to-weverse-acquires-controlling-stake-in-sk-groups-music-streaming-operator-dreamus-for-38-5m/",
+        "title": "bemyfriends acquires controlling stake in Dreamus for $38.5M",
+        "date": "2025-10",
+        "type": "news"
+      },
+      {
+        "url": "https://www.venturesquare.net/846564",
+        "title": "비마이프렌즈, 서우석 전 위버스컴퍼니 대표 영입",
+        "date": "2022",
+        "type": "news"
+      },
+      {
+        "url": "https://bemyfriends.com/article/announcements-post-15-en/",
+        "title": "bemyfriends receives KRW 22.4B investment from CJ Group",
+        "date": "2023",
+        "type": "official"
+      },
+      {
+        "url": "https://koreatechdesk.com/bemyfriends-dreamus-acquisition-korea-fandom-tech",
+        "title": "BeMyFriends' Dreamus acquisition signals Korea's push to globalize fandom-tech",
+        "date": "2025-11",
+        "type": "news"
+      },
+      {
+        "url": "https://biz.heraldcorp.com/article/10681578",
+        "title": "비마이프렌즈-드림어스컴퍼니, 음악 통합 시장 공략",
+        "date": "2026-02",
+        "type": "news"
+      },
+      {
+        "url": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=400199",
+        "title": "소속 아티스트 없이 IT로 무장한 팬덤 플랫폼",
+        "date": "2024",
+        "type": "news"
+      }
+    ]
+  },
+  "company": {
+    "parent": "비마이프렌즈 (독립 스타트업)",
+    "subsidiary": "드림어스컴퍼니 (FLO 음원 스트리밍, 아이리버) — 2025.11 인수",
+    "founded": "2021-01",
+    "headquarters": "서울, 대한민국",
+    "key_people": [
+      {
+        "name": "서우석 (Steve Wooseok S.)",
+        "role": "공동대표 — 前 beNX(위버스컴퍼니) 대표, 하이브 기술고문. 위버스·위버스샵 출범 주도"
+      },
+      {
+        "name": "이기영 (Brice Kiyoung Lee)",
+        "role": "공동대표"
+      },
+      {
+        "name": "Aaron Bae",
+        "role": "공동창업자"
+      },
+      {
+        "name": "Junki Kim",
+        "role": "공동창업자"
+      }
+    ]
+  },
+  "product": {
+    "type": "B2B SaaS 팬덤 플랫폼 빌더",
+    "platforms": ["iOS", "Android", "Web"],
+    "launch_date": "2021",
+    "core_features": [
+      {
+        "name": "화이트레이블 팬 플랫폼 구축",
+        "category": "platform",
+        "description": "아티스트/기획사가 자체 브랜드로 독립 팬 플랫폼을 구축 — IP 100% 소유권 보장",
+        "is_paid": true,
+        "differentiator": true
+      },
+      {
+        "name": "커뮤니티",
+        "category": "social",
+        "description": "팬 게시판, 해시태그, 팬 간 소통 기능",
+        "is_paid": false,
+        "differentiator": false
+      },
+      {
+        "name": "멤버십 (유료 구독)",
+        "category": "membership",
+        "description": "유료 팬클럽 구독 기능 — 월간 유료 구독자 100만 명 돌파",
+        "is_paid": true,
+        "differentiator": true
+      },
+      {
+        "name": "POP (라이브·채팅·1:1 TALK)",
+        "category": "live-streaming",
+        "description": "실시간 라이브 방송, 양방향 채팅, 1:1 프라이빗 메시지 통합 소통 기능",
+        "is_paid": true,
+        "differentiator": true
+      },
+      {
+        "name": "커머스 (팬 굿즈·MD)",
+        "category": "commerce",
+        "description": "IP 기반 MD 판매, 팝업 스토어, 캐릭터 사업 확장",
+        "is_paid": true,
+        "differentiator": false
+      },
+      {
+        "name": "티켓 판매",
+        "category": "commerce",
+        "description": "공연 티켓 판매 기능 내장",
+        "is_paid": true,
+        "differentiator": false
+      },
+      {
+        "name": "스티커 (유료 이모티콘)",
+        "category": "social",
+        "description": "유료 이모티콘 스티커 판매 — 디지털 상품 수익원",
+        "is_paid": true,
+        "differentiator": false
+      },
+      {
+        "name": "투표",
+        "category": "social",
+        "description": "팬 투표 기능",
+        "is_paid": false,
+        "differentiator": false
+      },
+      {
+        "name": "팬덤 데이터 분석",
+        "category": "analytics",
+        "description": "아티스트/기획사에게 팬덤 데이터 인사이트 제공",
+        "is_paid": true,
+        "differentiator": true
+      }
+    ],
+    "ux_highlights": [
+      "아티스트별 독립 브랜드 앱 — 차별화된 팬 경험",
+      "IP 100% 소유권 보장 — 기획사 입장에서 매력적",
+      "올인원 솔루션 (커뮤니티+커머스+라이브+멤버십+티켓+분석)",
+      "글로벌 크로스보더 커머스 인프라 내장",
+      "18개 언어 지원"
+    ],
+    "ux_pain_points": [
+      "아티스트별 개별 앱/플랫폼이라 팬 입장에서 분산됨 (vs Weverse 통합형)",
+      "개별 플랫폼 간 네트워크 효과 없음 — 디스커버리 어려움",
+      "일반 팬 기준 'b.stage' 브랜드 인지도 낮음"
+    ]
+  },
+  "business": {
+    "revenue_model": [
+      {
+        "type": "saas",
+        "name": "플랫폼 이용료 (B2B SaaS)",
+        "pricing": "아티스트/기획사별 플랫폼 구축 및 운영 수수료"
+      },
+      {
+        "type": "commission",
+        "name": "거래 수수료",
+        "pricing": "커머스·멤버십·티켓 거래 발생 시 수수료"
+      },
+      {
+        "type": "subscription",
+        "name": "멤버십 구독",
+        "pricing": "유료 팬클럽 구독 매출 (아티스트와 수익 분배)"
+      },
+      {
+        "type": "digital_goods",
+        "name": "디지털 상품 (스티커 등)",
+        "pricing": "유료 이모티콘, 디지털 아이템 판매"
+      },
+      {
+        "type": "streaming",
+        "name": "FLO 음원 스트리밍 (드림어스)",
+        "pricing": "음원 스트리밍 구독 서비스 (인수 후 통합 예정)"
+      },
+      {
+        "type": "distribution",
+        "name": "음원 유통 (드림어스)",
+        "pricing": "음원 유통 수수료 (인수 후 통합 예정)"
+      }
+    ],
+    "financial_metrics": {
+      "gmv_2025": "800억 원 (2025 연간)",
+      "growth_rate": "2년 연속 전년 대비 3배 이상 성장",
+      "profitability": "2025년 9월 BEP 돌파, 상반기 ~1억 원 영업이익 (흑자 전환)",
+      "total_funding": "$43.7M (Series B, 5라운드 누적)",
+      "dreamus_acquisition": "550억 원 (2025.11 완료)",
+      "2026_target": "연결 매출 3,000억 원 돌파 목표"
+    },
+    "funding": [
+      {
+        "round": "Seed~Series A",
+        "amount": "(미확인)",
+        "investors": "SparkLabs 등"
+      },
+      {
+        "round": "Strategic",
+        "amount": "224억 원",
+        "investors": "CJ Group, CJ OliveNetworks",
+        "date": "2023"
+      },
+      {
+        "round": "Strategic",
+        "amount": "(미확인)",
+        "investors": "Mitsubishi Estate CVC (BRICKS FUND TOKYO)",
+        "date": "2024"
+      },
+      {
+        "round": "Series B",
+        "amount": "누적 $43.7M",
+        "investors": "Goodwater Capital, KB Investment, Prime Partners, Main Street Ventures 등",
+        "date": "2025-10"
+      }
+    ],
+    "partnerships": [
+      "CJ Group / CJ OliveNetworks (전략적 투자자)",
+      "드림어스컴퍼니 (FLO, 아이리버 — 2025.11 인수)",
+      "Mitsubishi Estate (일본 시장 진출 파트너)",
+      "ATEEZ (KQ Entertainment)",
+      "T1 (e스포츠)",
+      "SM 아티스트 일부 (태민, Henry 등 개별 활동)",
+      "YG 출신 아티스트 (태양, 대성)"
+    ],
+    "expansion_strategy": [
+      "드림어스 통합으로 음원 유통→스트리밍→팬덤→커머스→공연 풀 밸류체인 구축",
+      "일본 시장 본격 진출 (미츠비시 투자 기반)",
+      "K-pop 넘어 글로벌 엔터·스포츠·크리에이터 영역 확장",
+      "IP 100% 소유권 보장으로 중소형 레이블·인디 아티스트 시장 공략",
+      "2026 목표: 글로벌 '슈퍼팬 비즈니스 인프라' 기업으로 포지셔닝"
+    ]
+  },
+  "market": {
+    "mau": "(미확인) 월간 활성 유료 구독자 100만 명 (2025.12)",
+    "mau_date": "2025-12",
+    "total_downloads": "(미확인)",
+    "total_users": "누적 회원 약 550~600만 명",
+    "total_platforms": "350+ 개별 팬 플랫폼 구축",
+    "total_artists": "1,000+ 아티스트 협업",
+    "global_ratio": 0.7,
+    "primary_markets": ["한국", "미국", "일본", "동남아시아"],
+    "coverage": "224개 국가",
+    "key_artists": "ATEEZ, T1, 태민, 강다니엘, 태양, 대성, KISS OF LIFE, Henry, Crush, 볼빨간사춘기, Melomance, TIOT, I.M",
+    "app_store_rating": {
+      "ios": "(미확인)",
+      "android": "(미확인)",
+      "review_count_estimate": "(미확인)"
+    }
+  },
+  "trends": [
+    {
+      "date": "2021-01",
+      "category": "milestone",
+      "summary": "비마이프렌즈 설립 — 위버스 개발 핵심 멤버(beNX 출신)가 창업",
+      "source": "공식"
+    },
+    {
+      "date": "2022",
+      "category": "milestone",
+      "summary": "서우석 前 위버스컴퍼니 대표를 공동대표로 영입 — 글로벌 확장 본격화",
+      "source": "벤처스퀘어"
+    },
+    {
+      "date": "2023",
+      "category": "financial",
+      "summary": "CJ그룹 224억 원 전략적 투자 유치",
+      "source": "bemyfriends 공식"
+    },
+    {
+      "date": "2024",
+      "category": "financial",
+      "summary": "2년 연속 전년 대비 3배 이상 성장률 기록, 미츠비시 CVC 투자 유치 (일본 시장)",
+      "source": "bemyfriends 공식"
+    },
+    {
+      "date": "2025-09",
+      "category": "financial",
+      "summary": "손익분기점(BEP) 돌파, 상반기 흑자 전환 (~1억 원 영업이익)",
+      "source": "서울경제"
+    },
+    {
+      "date": "2025-10",
+      "category": "milestone",
+      "summary": "드림어스컴퍼니(FLO·아이리버) 인수 계약 체결 — 550억 원 규모",
+      "source": "서울경제"
+    },
+    {
+      "date": "2025-11",
+      "category": "milestone",
+      "summary": "드림어스 인수 완료 — 음원 유통+스트리밍+팬덤 풀 밸류체인 구축",
+      "source": "이데일리"
+    },
+    {
+      "date": "2025-12",
+      "category": "user",
+      "summary": "월간 활성 유료 구독자 100만 명, 누적 회원 550만 명 돌파, 2025 GMV 800억 원 달성",
+      "source": "벤처스퀘어"
+    },
+    {
+      "date": "2026-02",
+      "category": "milestone",
+      "summary": "드림어스 통합 '글로벌 슈퍼팬 생태계' 비전 발표 — 2026 목표 연결 매출 3,000억 원",
+      "source": "헤럴드경제"
+    },
+    {
+      "date": "2026-02",
+      "category": "partnership",
+      "summary": "ILMC 음악 컨퍼런스에서 K-POP 팬덤 비즈니스 모델 발표 — 글로벌 B2B 영업 확대",
+      "source": "경향게임스"
+    }
+  ],
+  "competitive_position": {
+    "strengths": [
+      "위버스 개발 핵심인력 창업 — 팬덤 플랫폼 노하우 최고 수준",
+      "B2B SaaS 모델로 특정 기획사에 종속되지 않는 중립적 포지션",
+      "IP 100% 소유권 보장 — 아티스트/기획사 입장에서 데이터·수익 주권 확보",
+      "드림어스 인수로 음원 유통→스트리밍→팬덤→커머스→공연 풀 밸류체인 구축",
+      "2년 연속 3배 성장 + 흑자 전환 — 비즈니스 모델 증명",
+      "해외 비율 70% — 글로벌 시장 검증 완료",
+      "1,000+ 아티스트, 350+ 플랫폼 — 압도적 롱테일 커버리지"
+    ],
+    "weaknesses": [
+      "아티스트별 개별 플랫폼 분산 → 네트워크 효과 약함 (vs Weverse 통합형)",
+      "일반 팬 기준 'b.stage' 브랜드 인지도 낮음 (B2B 특성상)",
+      "자체 소속 아티스트 없어 기획사 의존적 — 고객사 이탈 리스크",
+      "드림어스(FLO) 인수 후 통합 실행 리스크"
+    ],
+    "opportunities": [
+      "드림어스(FLO) 통합으로 음원+팬덤+공연 원스톱 → 시장 재정의",
+      "대형 기획사 자체 플랫폼에 의존 못하는 중소형 레이블·인디 아티스트 시장 독점",
+      "일본·동남아 등 글로벌 B2B 확장 (미츠비시 파트너십 기반)",
+      "K-pop 넘어 스포츠(T1), 크리에이터 등 전 엔터 영역으로 확장 가능",
+      "2026 연결 매출 3,000억 원 목표 달성 시 IPO 가능성"
+    ],
+    "threats": [
+      "Weverse·Berries 등 대형 플랫폼의 아티스트 독점 전략 (고객사 이탈 유발)",
+      "대형 기획사들이 자체 팬 플랫폼 구축 시 b.stage 수요 감소",
+      "FLO 음원 스트리밍 시장 경쟁 격화 (Spotify, Melon, Apple Music 등)",
+      "드림어스 인수 비용(550억)이 재무 부담 — 통합 시너지 미달 시 리스크"
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "id": "berries",
+    "name_ko": "베리즈",
+    "name_en": "Berriz",
+    "last_updated": "2026-03-01",
+    "data_confidence": "medium",
+    "sources": [
+      {
+        "url": "https://www.koreaherald.com/article/10449874",
+        "title": "Kakao Entertainment launches Berriz, new global K-culture fan platform",
+        "date": "2025-03",
+        "type": "news"
+      },
+      {
+        "url": "https://www.musicbusinessworldwide.com/youve-heard-of-superfan-app-weverse-now-the-parent-company-of-hybes-arch-rival-has-launched-a-direct-competitor-meet-berriz/",
+        "title": "Meet Berriz: HYBE arch-rival's direct Weverse competitor",
+        "date": "2025-03",
+        "type": "news"
+      },
+      {
+        "url": "https://kakaoent.com/pr/detail/227",
+        "title": "카카오엔터, 글로벌 K컬처 팬 플랫폼 '베리즈(Berriz)' 공식 론칭",
+        "date": "2025-03",
+        "type": "official"
+      },
+      {
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508121401574720105242",
+        "title": "베리즈, 카카오엔터 성장 정체 뚫을 'IP 허브'",
+        "date": "2025-08",
+        "type": "news"
+      },
+      {
+        "url": "https://sports.khan.co.kr/article/202602241915003/",
+        "title": "카카오엔터 베리즈, 라이온즈 팀스토어 공식 오픈",
+        "date": "2026-02",
+        "type": "news"
+      },
+      {
+        "url": "https://www.koreaherald.com/article/10411755",
+        "title": "Kakao's new fandom platform to come head-to-head with Hybe's Weverse",
+        "date": "2025-01",
+        "type": "news"
+      },
+      {
+        "url": "https://berriz.io",
+        "title": "베리즈 공식 사이트 - 앱 업데이트 노트",
+        "date": "2026-02",
+        "type": "official"
+      },
+      {
+        "url": "https://www.google.com/search?q=berriz+kakao+2026",
+        "title": "카카오엔터 베리즈 2026 최신 동향 검색",
+        "date": "2026-03",
+        "type": "news"
+      }
+    ]
+  },
+  "company": {
+    "parent": "Kakao Entertainment",
+    "subsidiary": "카카오엔터테인먼트 직접 운영",
+    "founded": "2025",
+    "headquarters": "서울, 대한민국",
+    "key_people": [],
+    "financial_note": "카카오엔터테인먼트 2025 Q1 매출 전년 대비 16% 감소, 3년 연속 순손실 기록 - 베리즈에 대한 투자 압박 존재"
+  },
+  "product": {
+    "type": "super-app (모듈형)",
+    "platforms": ["iOS", "Android", "Web", "iPad"],
+    "launch_date": "2025-03-25",
+    "core_features": [
+      {
+        "name": "팬 커뮤니티",
+        "category": "social",
+        "description": "아티스트별 팬 커뮤니티, 해시태그 기능, 아티스트별 푸시 알림 설정",
+        "is_paid": false,
+        "differentiator": false
+      },
+      {
+        "name": "라이브 방송",
+        "category": "live-streaming",
+        "description": "실시간 방송 + VOD 다시보기 + 분할 플레이어(Split Player) 기능 추가",
+        "is_paid": false,
+        "differentiator": false
+      },
+      {
+        "name": "VOD 자막 지원",
+        "category": "content",
+        "description": "VOD 콘텐츠에 자막 기능 추가, 글로벌 팬 접근성 향상",
+        "is_paid": false,
+        "differentiator": false
+      },
+      {
+        "name": "팬클럽 인증",
+        "category": "membership",
+        "description": "팬클럽 인증 및 전용 게시판, 멤버십 구매",
+        "is_paid": true,
+        "differentiator": false
+      },
+      {
+        "name": "베리즈샵 (Berriz Shop)",
+        "category": "commerce",
+        "description": "2025.11.20 공식 오픈. 공식 MD, 한정판 MD, 시즌그리팅, 팬클럽 멤버십 구매 가능한 온라인 팬 스토어",
+        "is_paid": true,
+        "differentiator": true
+      },
+      {
+        "name": "해외 콘서트 사전예매",
+        "category": "commerce",
+        "description": "해외 콘서트 사전예매 기능 - (여자)아이들 월드투어 등 글로벌 공연 티켓 연동",
+        "is_paid": true,
+        "differentiator": true
+      },
+      {
+        "name": "AI 페르소나",
+        "category": "ai",
+        "description": "가상 AI 페르소나 기능으로 아티스트와 가상 상호작용",
+        "is_paid": "(미확인)",
+        "differentiator": true
+      },
+      {
+        "name": "콘텐츠 IP 커뮤니티",
+        "category": "content",
+        "description": "드라마, 웹툰, 뮤지컬 등 콘텐츠 기반 팬 커뮤니티",
+        "is_paid": false,
+        "differentiator": true
+      },
+      {
+        "name": "멜론 계정 연동",
+        "category": "integration",
+        "description": "카카오 생태계 멜론(Melon) 계정 연동 기능 추가",
+        "is_paid": false,
+        "differentiator": true
+      }
+    ],
+    "ux_highlights": [
+      "모듈형 플랫폼 - IP별 맞춤 디자인과 서비스 구성",
+      "18개 언어 번역 지원",
+      "K-pop 외 드라마/웹툰/뮤지컬/스포츠 IP까지 통합",
+      "AI 페르소나 기능으로 새로운 팬 경험",
+      "카카오 생태계 연동 (멜론 계정 연동 확인)",
+      "VOD 자막 + 분할 플레이어로 콘텐츠 접근성 강화",
+      "해외 콘서트 사전예매 기능으로 글로벌 팬 편의성 제공"
+    ],
+    "ux_pain_points": [
+      "(미확인) 기존 Weverse 대비 아티스트 라인업 아직 적은 편",
+      "(미확인) 커머스 기능 안정성 (오픈 초기)"
+    ]
+  },
+  "business": {
+    "revenue_model": [
+      {
+        "type": "ecommerce",
+        "name": "베리즈샵",
+        "pricing": "공식 MD, 한정판 MD, 시즌그리팅 판매 (2025.11.20 오픈)"
+      },
+      {
+        "type": "ecommerce",
+        "name": "팀스토어",
+        "pricing": "스포츠 팀 공식 굿즈 판매 (라이온즈 팀스토어 2026.02 오픈)"
+      },
+      {
+        "type": "ticketing",
+        "name": "해외 콘서트 사전예매",
+        "pricing": "글로벌 공연 티켓 연동 판매"
+      },
+      {
+        "type": "membership",
+        "name": "팬클럽 멤버십",
+        "pricing": "(미확인)"
+      },
+      {
+        "type": "advertising",
+        "name": "프로모션/광고",
+        "pricing": "(미확인) 드라마·웹툰 연계 프로모션"
+      }
+    ],
+    "financial_metrics": {
+      "revenue": "(미확인) 출시 1년 미만으로 별도 실적 미공개",
+      "parent_revenue_note": "카카오엔터 2025 Q1 매출 전년 대비 16% 감소, 3년 연속 순손실",
+      "note": "모회사 재무 악화 속에서 성장 돌파구로 베리즈에 전략적 투자 중 - 수익성 압박 상존"
+    },
+    "funding": [],
+    "partnerships": [
+      "SM Entertainment (카카오 자회사 - 아티스트 이전 진행 중)",
+      "Starship Entertainment (카카오 자회사)",
+      "Antenna (정승환 등)",
+      "라이온즈 (삼성 라이온즈 스포츠 팀스토어 2026.02 오픈)",
+      "드라마 '연애최면학개론' (웹툰 원작 콘텐츠 IP)",
+      "(여자)아이들 - 해외 콘서트 사전예매 연동"
+    ],
+    "expansion_strategy": [
+      "카카오엔터 산하 레이블 아티스트 전면 이전 (SM, Starship 등)",
+      "K-pop 넘어 드라마/웹툰/뮤지컬 등 콘텐츠 IP 허브 전략",
+      "스포츠 IP 확장 (라이온즈 팀스토어 → 추가 스포츠 팀 확대 가능)",
+      "커머스 강화 - 베리즈샵 + 해외 콘서트 사전예매 + 팀스토어",
+      "AI·커머스·라이브 스트리밍 통합 팬 경험",
+      "멜론 연동 등 카카오 생태계 시너지 구체화",
+      "글로벌 18개 언어 지원으로 해외 시장 동시 공략",
+      "2026 아티스트 라인업 강화 (IVE 신보, hrtz.wav 데뷔 등)"
+    ]
+  },
+  "market": {
+    "mau": "(미확인) 출시 약 1년",
+    "mau_date": "N/A",
+    "total_downloads": "(미확인)",
+    "total_artists": "(미확인) IU, IVE, MONSTA X, CRAVITY, 정승환, KiiiKiii, WOODZ, IDID, 우주소녀, (여자)아이들 등",
+    "global_ratio": "(미확인)",
+    "primary_markets": ["한국", "글로벌 (18개 언어 지원)"],
+    "app_store_rating": {
+      "ios": "(미확인)",
+      "android": "(미확인)",
+      "review_count_estimate": "(미확인)"
+    },
+    "2026_activity": "2026 시즌그리팅 판매 진행 (IU, WOODZ, MONSTA X, IVE, KiiiKiii)"
+  },
+  "trends": [
+    {
+      "date": "2025-01",
+      "category": "milestone",
+      "summary": "카카오, Weverse 대항 글로벌 팬덤 플랫폼 준비 보도 - SM 업고 도전",
+      "source": "아시아경제"
+    },
+    {
+      "date": "2025-03",
+      "category": "milestone",
+      "summary": "베리즈(Berriz) 글로벌 공식 론칭, 정승환·KiiiKiii 첫 입점",
+      "source": "카카오엔터 공식"
+    },
+    {
+      "date": "2025-03",
+      "category": "partnership",
+      "summary": "Starship·SM 아티스트 전면 이전 예고 (IVE, 몬스타엑스 등 합류)",
+      "source": "allkpop"
+    },
+    {
+      "date": "2025-08",
+      "category": "financial",
+      "summary": "카카오엔터 성장 정체 타개 핵심 사업으로 베리즈 'IP 허브' 전략 추진",
+      "source": "더벨"
+    },
+    {
+      "date": "2025-11",
+      "category": "partnership",
+      "summary": "MMA2025 글로벌 팬 커뮤니티 오픈",
+      "source": "스타뉴스"
+    },
+    {
+      "date": "2025-11",
+      "category": "product",
+      "summary": "베리즈샵(Berriz Shop) 공식 오픈 (2025.11.20) - 온라인 팬 스토어 커머스 기능 가동",
+      "source": "앱 업데이트 노트"
+    },
+    {
+      "date": "2026-01",
+      "category": "product",
+      "summary": "VOD 자막 기능, 라이브 분할 플레이어(Split Player) 기능 추가",
+      "source": "앱 업데이트"
+    },
+    {
+      "date": "2026-01",
+      "category": "product",
+      "summary": "멜론(Melon) 계정 연동 기능 추가 - 카카오 생태계 시너지 구체화",
+      "source": "앱 업데이트"
+    },
+    {
+      "date": "2026-02",
+      "category": "product",
+      "summary": "라이온즈 팀스토어 공식 오픈 - 스포츠 IP 확장",
+      "source": "스포츠경향"
+    },
+    {
+      "date": "2026-02",
+      "category": "product",
+      "summary": "(여자)아이들 월드투어 해외 콘서트 사전예매 기능 추가 - 글로벌 커머스 확장",
+      "source": "앱 업데이트"
+    },
+    {
+      "date": "2026-02",
+      "category": "product",
+      "summary": "2026 시즌그리팅 판매 (IU, WOODZ, MONSTA X, IVE, KiiiKiii) - 커머스 활성화",
+      "source": "베리즈샵"
+    },
+    {
+      "date": "2026-03",
+      "category": "financial",
+      "summary": "카카오엔터 3년 연속 순손실, 2025 Q1 매출 전년비 16% 감소 - 모회사 재무 압박 속 베리즈 투자 지속 여부 관건",
+      "source": "언론 보도 종합"
+    }
+  ],
+  "competitive_position": {
+    "strengths": [
+      "카카오 생태계 (카카오톡, 멜론, 카카오페이 등) 연동 - 멜론 연동 실현",
+      "SM·Starship 등 강력한 아티스트 라인업 확보 진행 중",
+      "K-pop 외 드라마/웹툰/뮤지컬/스포츠 IP 통합 - 유일한 'K-컬처 IP 허브'",
+      "모듈형 플랫폼으로 IP별 맞춤 서비스 가능",
+      "AI 페르소나 등 최신 기술 적용",
+      "커머스 다각화 빠른 진행 (베리즈샵 + 팀스토어 + 콘서트 사전예매)"
+    ],
+    "weaknesses": [
+      "후발주자 (2025.03 출시) - Weverse 대비 사용자 기반 부족",
+      "모회사 카카오엔터 재무 악화 (3년 연속 순손실) - 투자 지속 불확실성",
+      "MAU·다운로드 등 핵심 지표 미공개 - 성과 검증 어려움",
+      "Bubble 대비 메시징 특화 기능 부족"
+    ],
+    "opportunities": [
+      "SM 아티스트 전면 이전 시 대규모 팬 유입",
+      "드라마/웹툰/스포츠 팬덤까지 확장하면 시장 재정의 가능 (TAM 확대)",
+      "카카오 인프라 활용한 결제/물류/콘텐츠 시너지 (멜론 연동 시작)",
+      "IVE 신보, hrtz.wav 데뷔 등 2026년 콘텐츠 라인업 풍부",
+      "해외 콘서트 사전예매 등 글로벌 커머스 경험 차별화"
+    ],
+    "threats": [
+      "Weverse의 선점 효과 및 글로벌 네트워크 효과 (MAU 1,200만+)",
+      "모회사 재무 압박으로 충분한 투자 지속 못할 리스크",
+      "Bubble(DearU)이 SM 자회사로 아티스트 이중 소속 혼란 가능",
+      "사용자 이전 과정에서 팬 불만/이탈 가능",
+      "시장이 Weverse-Berriz 양강으로 갈 경우, 초기 점유율 확보 실패 시 회복 어려움"
+    ]
+  }
+}

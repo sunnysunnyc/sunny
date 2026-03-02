@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "id": "weverse",
+    "name_ko": "위버스",
+    "name_en": "Weverse",
+    "last_updated": "2026-03-01",
+    "data_confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.musicbusinessworldwide.com/hybe-says-weverse-hit-12m-monthly-users-last-year-and-that-its-turning-casual-fans-into-superfans/",
+        "title": "HYBE says Weverse hit 12m monthly users",
+        "date": "2026-02",
+        "type": "news"
+      },
+      {
+        "url": "https://www.musicbusinessworldwide.com/hybes-us-restructure-weverse-turns-profitable-and-concerts-boom-3-things-to-know-from-the-k-pop-giants-latest-earnings-call/",
+        "title": "Weverse turns profitable - HYBE earnings call",
+        "date": "2025-11",
+        "type": "report"
+      },
+      {
+        "url": "https://www.musicbusinessworldwide.com/hybe-posts-record-annual-revenues-of-1-86bn-for-2025-as-k-pop-firms-concert-revenues-hit-all-time-high-but-operating-profit-plunged-73/",
+        "title": "HYBE posts record annual revenues of $1.86bn for 2025",
+        "date": "2026-02",
+        "type": "report"
+      },
+      {
+        "url": "https://liveissue.kr/위버스weverse-2025-트렌드-리포트-글로벌-팬덤-플랫폼의-진/",
+        "title": "위버스 2025 트렌드 리포트: 글로벌 팬덤 플랫폼의 진화와 전략 분석",
+        "date": "2025",
+        "type": "report"
+      },
+      {
+        "url": "https://biz.heraldcorp.com/article/10670996",
+        "title": "팬덤 경험 확장…위버스, '팬덤의 여정' 4유형 제시",
+        "date": "2026-02",
+        "type": "news"
+      }
+    ]
+  },
+  "company": {
+    "parent": "HYBE Corporation",
+    "subsidiary": "Weverse Company",
+    "founded": "2019",
+    "headquarters": "서울, 대한민국",
+    "key_people": [
+      { "name": "방시혁", "role": "HYBE 의장" },
+      { "name": "최준원", "role": "위버스컴퍼니 대표" }
+    ]
+  },
+  "product": {
+    "type": "super-app",
+    "platforms": ["iOS", "Android", "Web"],
+    "launch_date": "2019-06",
+    "latest_version": "3.11.0 (2026-01-22)",
+    "core_features": [
+      {
+        "name": "커뮤니티",
+        "category": "social",
+        "description": "팬-팬, 팬-아티스트 소셜 피드",
+        "is_paid": false,
+        "differentiator": false
+      },
+      {
+        "name": "Weverse DM",
+        "category": "messaging",
+        "description": "아티스트와 1:1 프라이빗 메시징 (구독형)",
+        "is_paid": true,
+        "price_usd": 5.0,
+        "price_unit": "월/멤버",
+        "differentiator": true
+      },
+      {
+        "name": "Weverse Shop",
+        "category": "commerce",
+        "description": "공식 MD/앨범 판매, 190개국 배송",
+        "is_paid": true,
+        "differentiator": true
+      },
+      {
+        "name": "Weverse Live",
+        "category": "live-streaming",
+        "description": "실시간 방송 (2025년 6,558회, 10억 뷰 달성)",
+        "is_paid": false,
+        "differentiator": false
+      },
+      {
+        "name": "Weverse Magazine",
+        "category": "content",
+        "description": "독점 인터뷰/기사 콘텐츠",
+        "is_paid": false,
+        "differentiator": true
+      },
+      {
+        "name": "Weverse Albums",
+        "category": "commerce",
+        "description": "디지털 앨범 판매 플랫폼",
+        "is_paid": true,
+        "differentiator": true
+      },
+      {
+        "name": "팬클럽 멤버십",
+        "category": "membership",
+        "description": "공식 팬클럽 가입 및 관리",
+        "is_paid": true,
+        "price_usd": 20.0,
+        "price_unit": "년",
+        "differentiator": false
+      }
+    ],
+    "ux_highlights": [
+      "통합 생태계 (소셜+커머스+콘텐츠+라이브)",
+      "다국어 자동번역 지원",
+      "팬클럽 멤버십 통합 관리",
+      "Weverse 3.0 UI/UX 전면 개편 (2025.02)",
+      "AI 기반 개인화 콘텐츠 추천"
+    ],
+    "ux_pain_points": [
+      "알림 지연 이슈",
+      "번역 품질 불균일",
+      "콘텐츠 모더레이션 부족 (혐오 발언 등)"
+    ]
+  },
+  "business": {
+    "revenue_model": [
+      {
+        "type": "subscription",
+        "name": "Weverse DM",
+        "pricing": "~$5/월/멤버"
+      },
+      {
+        "type": "ecommerce",
+        "name": "Weverse Shop",
+        "pricing": "상품별 상이 (2025년 2,520만 개 판매)"
+      },
+      {
+        "type": "membership",
+        "name": "팬클럽 멤버십",
+        "pricing": "~$20/년"
+      },
+      {
+        "type": "advertising",
+        "name": "플랫폼 광고",
+        "pricing": "B2B"
+      },
+      {
+        "type": "commission",
+        "name": "디지털 상품",
+        "pricing": "전년 대비 2배 이상 성장"
+      }
+    ],
+    "financial_metrics": {
+      "hybe_annual_revenue_2025": "KRW 2.65T (~$1.86B USD)",
+      "weverse_profitability": "2025년 Q3 기준 누적 흑자 전환",
+      "weverse_first_annual_profit": "2025년 첫 연간 흑자 달성",
+      "shop_products_sold_2025": "25.2M개",
+      "digital_product_growth_yoy": "2배 이상 증가",
+      "avg_time_per_user_monthly": "263분/월"
+    },
+    "funding": [],
+    "partnerships": [
+      "YG Entertainment (블랙핑크 등)",
+      "SM Entertainment (일부 아티스트)",
+      "Universal Music Group (해외 아티스트)",
+      "카토리 싱고 (해외 아티스트 최초 위버스 앨범 협업)",
+      "QQ Music (중국 위버스 DM 런칭)"
+    ],
+    "expansion_strategy": [
+      "글로벌 아티스트 확장 (K-pop 넘어 해외 아티스트 유치)",
+      "팬클럽+커머스+콘텐츠 통합 슈퍼앱 전략",
+      "중국 시장 진출 (QQ Music 통한 위버스 DM)",
+      "풀필먼트 협약으로 24시간 배송 지역 18개국 확대",
+      "위버스 콘 2025 오프·온라인 하이브리드 (AR/VR 버추얼 팬싸 시범)",
+      "Weverse 3.0 UI/UX 개편 + AI 기반 개인화"
+    ]
+  },
+  "market": {
+    "mau": 12000000,
+    "mau_date": "2025 연간 최고치",
+    "mau_q4_2025": 11200000,
+    "mau_trend": "2026년 1월 전월 대비 15% 증가 중",
+    "total_downloads": "(미확인)",
+    "total_artists": 178,
+    "new_artists_2025": 11,
+    "new_artist_subscribers": 4430000,
+    "global_ratio": 0.87,
+    "primary_markets": ["한국", "일본", "미국", "라틴아메리카", "동남아"],
+    "app_store_rating": {
+      "ios": 4.2,
+      "android": 3.8,
+      "review_count_estimate": "(미확인) 500K+"
+    }
+  },
+  "trends": [
+    {
+      "date": "2025-02",
+      "category": "product",
+      "summary": "Weverse 3.0 UI/UX 전면 개편, AI 기반 개인화 추천 알고리즘 도입",
+      "source": "라이브이슈KR"
+    },
+    {
+      "date": "2025-06",
+      "category": "milestone",
+      "summary": "BTS 완전체 재결합으로 커뮤니티 팔로워 300% 이상 급증",
+      "source": "Music Business Worldwide"
+    },
+    {
+      "date": "2025-Q3",
+      "category": "financial",
+      "summary": "위버스 누적 흑자 전환, 디지털 멤버십·광고 수익모델 기여",
+      "source": "Music Business Worldwide"
+    },
+    {
+      "date": "2025-11",
+      "category": "product",
+      "summary": "중국 QQ Music에서 위버스 DM 서비스 런칭",
+      "source": "Music Business Worldwide"
+    },
+    {
+      "date": "2025",
+      "category": "milestone",
+      "summary": "연간 MAU 1,200만 돌파 (역대 최고), 위버스 라이브 6,558회·10억 뷰",
+      "source": "HYBE Fandom Report"
+    },
+    {
+      "date": "2025",
+      "category": "financial",
+      "summary": "위버스샵 2,520만 개 상품 판매, 디지털 상품 매출 전년비 2배 이상 성장",
+      "source": "HYBE Earnings"
+    },
+    {
+      "date": "2026-01",
+      "category": "product",
+      "summary": "Weverse 3.11.0 업데이트, 프로필 공유 기능·알림 설정 개선",
+      "source": "Weverse 공식 공지"
+    },
+    {
+      "date": "2026-02",
+      "category": "milestone",
+      "summary": "'팬덤의 여정' 4유형 리포트 발표, 탐색→주도 팬덤 경험 확장 비전",
+      "source": "헤럴드경제"
+    }
+  ],
+  "competitive_position": {
+    "strengths": [
+      "HYBE 아티스트 독점 접근 (BTS, 세븐틴, 뉴진스, 르세라핌 등)",
+      "통합 생태계 (소셜+커머스+콘텐츠+라이브) - 업계 유일",
+      "글로벌 MAU 1위 (1,200만)",
+      "2025년 첫 연간 흑자 달성 - 수익성 증명",
+      "190개국 배송 인프라 + 18개국 24시간 배송",
+      "해외 아티스트 확장으로 K-pop 넘어 글로벌 팬덤 플랫폼화"
+    ],
+    "weaknesses": [
+      "HYBE 그룹 의존도 높음 (아티스트 수급 리스크)",
+      "콘텐츠 모더레이션 이슈 (혐오 발언, 사생활 침해)",
+      "UX 불안정성 (알림 지연, 번역 품질)",
+      "HYBE 전체 영업이익 73% 감소 (비용 구조 우려)"
+    ],
+    "opportunities": [
+      "BTS 2026 앨범/투어로 MAU 추가 성장 기대",
+      "중국 시장 진출 (QQ Music 제휴)",
+      "AI 기반 개인화·AR/VR 팬 경험 혁신",
+      "비K-pop 글로벌 아티스트 유치로 시장 확대",
+      "디지털 상품·광고 등 신규 수익원 다변화"
+    ],
+    "threats": [
+      "카카오 Berries 진입 (SM·JYP 아티스트 기반)",
+      "틱톡·인스타그램 등 범용 SNS의 팬 소통 기능 강화",
+      "아티스트 이탈 리스크 (계약 종료 시)",
+      "플랫폼 간 아티스트 쟁탈전 심화"
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "id": "bubble",
+    "name_ko": "버블",
+    "name_en": "DearU Bubble",
+    "last_updated": "2026-03-01",
+    "data_confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.musicbusinessworldwide.com/sm-entertainment-buys-additional-11-4-stake-in-bubble-superfan-app-operator-dearu-in-92m-deal/",
+        "title": "SM Entertainment buys additional 11.4% stake in DearU - $92m deal",
+        "date": "2025-04",
+        "type": "news"
+      },
+      {
+        "url": "https://www.musicbusinessworldwide.com/sm-entertainments-operating-profit-soars-261-amid-streak-of-hit-k-pop-albums-growth-at-fan-platform-dearu/",
+        "title": "SM Entertainment's operating profit soars 261%, growth at DearU",
+        "date": "2025-11",
+        "type": "report"
+      },
+      {
+        "url": "https://respawn.outlookindia.com/pop-culture/pop-culture-guides/weverse-vs-bubble-the-battle-for-k-pop-fans",
+        "title": "Weverse vs. Bubble: The Battle for K-Pop Fans",
+        "date": "2025",
+        "type": "report"
+      },
+      {
+        "url": "https://www.musicbusinessworldwide.com/bubble-superfan-concerts-merch-are-accelerating-tencent-musics-growth-as-company-expands-beyond-streaming/",
+        "title": "Bubble superfan app accelerating Tencent Music's growth",
+        "date": "2025",
+        "type": "news"
+      },
+      {
+        "url": "https://namu.wiki/w/Dear%20U%20bubble",
+        "title": "Dear U bubble - 나무위키",
+        "date": "2025",
+        "type": "official"
+      }
+    ]
+  },
+  "company": {
+    "parent": "SM Entertainment (지분 45.1%)",
+    "subsidiary": "DearU Co., Ltd.",
+    "founded": "2020",
+    "headquarters": "서울, 대한민국",
+    "key_people": [
+      { "name": "안종오", "role": "DearU 대표이사" }
+    ]
+  },
+  "product": {
+    "type": "messaging",
+    "platforms": ["iOS", "Android", "Web Store"],
+    "launch_date": "2020-02",
+    "core_features": [
+      {
+        "name": "프라이빗 메시지",
+        "category": "messaging",
+        "description": "아티스트가 보내는 1:1 형태 메시지 수신 + 팬 답장 기능",
+        "is_paid": true,
+        "price_usd": 4.0,
+        "price_unit": "월/아티스트",
+        "differentiator": true
+      },
+      {
+        "name": "bubble LIVE",
+        "category": "live-streaming",
+        "description": "실시간 영상 스트리밍 서비스 (2022.08 런칭)",
+        "is_paid": false,
+        "differentiator": false
+      },
+      {
+        "name": "손글씨 폰트",
+        "category": "content",
+        "description": "아티스트 손글씨를 폰트로 제공 (LUCY 등)",
+        "is_paid": true,
+        "differentiator": true
+      },
+      {
+        "name": "캐릭터/펫 인터랙션",
+        "category": "content",
+        "description": "아티스트 반려동물과 상호작용 서비스 (태민 댕이 등)",
+        "is_paid": true,
+        "differentiator": true
+      },
+      {
+        "name": "구독 연속일수 카운터",
+        "category": "membership",
+        "description": "구독 연속일수 추적 (해지 시 리셋) - 리텐션 메커니즘",
+        "is_paid": false,
+        "differentiator": true
+      }
+    ],
+    "ux_highlights": [
+      "1:1 프라이빗 메시지 특화 - 친밀감 극대화",
+      "구독 연속일수로 팬 리텐션 효과",
+      "소속사별 독립 앱 운영 (JYP, SM, BH 등)",
+      "운영 비용 최소화 SaaS 모델"
+    ],
+    "ux_pain_points": [
+      "소속사별 앱이 분리되어 있어 불편",
+      "커뮤니티 기능 부재 (팬-팬 소통 불가)",
+      "커머스/MD 연계 기능 없음",
+      "콘텐츠 아카이브 기능 제한적"
+    ]
+  },
+  "business": {
+    "revenue_model": [
+      {
+        "type": "subscription",
+        "name": "메시지 구독",
+        "pricing": "~4,500원/월/아티스트 (~$4 USD)"
+      }
+    ],
+    "financial_metrics": {
+      "trailing_12m_revenue": "$55.2M (2025.09 기준)",
+      "q3_2025_revenue": "KRW 22.3B (~$17.4M)",
+      "q2_2025_revenue": "KRW 20.2B (~$14M)",
+      "q3_vs_q2_growth": "10.5%",
+      "sm_consolidated_revenue_impact": "연간 ~KRW 100B 연결매출 증가 기대"
+    },
+    "funding": [
+      {
+        "date": "2025-03",
+        "type": "acquisition",
+        "details": "SM Entertainment가 JYP 등으로부터 추가 11.4% 지분 인수, KRW 135.6B (~$92M), 총 지분 45.1%"
+      }
+    ],
+    "partnerships": [
+      "SM Entertainment (최대주주, 45.1%)",
+      "JYP Entertainment (bubble for JYPnation 운영)",
+      "빅히트뮤직/BH Entertainment (bubble for BHEnt.)",
+      "Tencent Music (중국 시장 진출 파트너)",
+      "다수 중소 엔터테인먼트사 (bubble for TOP, STARS 등)"
+    ],
+    "expansion_strategy": [
+      "중국 시장 진출 (Tencent Music 전략적 파트너십)",
+      "아이돌 외 배우, 스포츠 스타, 크리에이터로 확장",
+      "웹 스토어(Web STORE) 서비스 출시 (2025.07)",
+      "구독 단가 인상 전략 (2025.07 가격 인상)",
+      "커뮤니티 서비스 도입을 통한 사용자 풀 확대"
+    ]
+  },
+  "market": {
+    "mau": "(미확인) 구체적 MAU 미공개",
+    "mau_date": "N/A",
+    "paid_subscribers": "(미확인) 매분기 유료구독자 최고 기록 갱신 중",
+    "total_downloads": "(미확인)",
+    "total_artists": "(미확인) SM, JYP, BH 등 다수 소속사 아티스트",
+    "global_ratio": "(미확인)",
+    "primary_markets": ["한국", "일본", "동남아", "중국 (진출 예정)"],
+    "app_store_rating": {
+      "ios": "(미확인)",
+      "android": "(미확인)",
+      "review_count_estimate": "(미확인)"
+    }
+  },
+  "trends": [
+    {
+      "date": "2025-02",
+      "category": "product",
+      "summary": "태민 반려묘 '댕이' 인터랙션 서비스 오픈 - 아티스트 외 콘텐츠 확장",
+      "source": "나무위키"
+    },
+    {
+      "date": "2025-03",
+      "category": "financial",
+      "summary": "SM Entertainment가 JYP 등으로부터 DearU 지분 11.4% 추가 인수 (KRW 135.6B), 총 45.1% 보유",
+      "source": "Music Business Worldwide"
+    },
+    {
+      "date": "2025-Q2",
+      "category": "financial",
+      "summary": "SM 연결 편입 후 첫 분기 매출 KRW 20.2B 기록",
+      "source": "Music Business Worldwide"
+    },
+    {
+      "date": "2025-07",
+      "category": "product",
+      "summary": "구독 가격 인상 + 웹 스토어(Web STORE) 서비스 출시",
+      "source": "DearU 공식"
+    },
+    {
+      "date": "2025-Q3",
+      "category": "financial",
+      "summary": "분기 매출 KRW 22.3B로 전분기 대비 10.5% 성장, Trailing 12개월 매출 $55.2M",
+      "source": "Music Business Worldwide"
+    },
+    {
+      "date": "2025",
+      "category": "partnership",
+      "summary": "Tencent Music과 중국 시장 진출 전략적 파트너십 체결",
+      "source": "Music Business Worldwide"
+    }
+  ],
+  "competitive_position": {
+    "strengths": [
+      "1:1 프라이빗 메시지 특화 - 팬 친밀감 최강",
+      "순수 SaaS 모델로 운영비용 최소, 안정적 월 구독 수익",
+      "SM+JYP 등 주요 엔터사 아티스트 확보",
+      "구독 연속일수 등 리텐션 메커니즘 강력",
+      "매분기 유료구독자 최고 기록 갱신"
+    ],
+    "weaknesses": [
+      "단일 기능(메시징)에 특화 - 생태계 부재",
+      "소속사별 앱 분리로 사용자 경험 분산",
+      "커뮤니티/커머스 기능 없음 (Weverse 대비 약점)",
+      "MAU 등 핵심 지표 비공개로 시장 평가 제한",
+      "SM 의존도 심화 (45.1% 지분)"
+    ],
+    "opportunities": [
+      "중국 시장 진출 (Tencent Music 제휴)",
+      "배우, 스포츠, 크리에이터 등 비아이돌 확장",
+      "커뮤니티 서비스 도입으로 플랫폼화",
+      "웹 스토어 통한 수수료 절감 및 직접 결제"
+    ],
+    "threats": [
+      "Weverse DM이 동일 기능 제공 - 직접 경쟁",
+      "카카오 Berries 진입으로 SM/JYP 아티스트 이탈 가능",
+      "플랫폼 앱스토어 수수료 부담",
+      "구독 피로감 증가 (아티스트당 과금)"
+    ]
+  }
+}
