@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "day1-onboarding": {
+      "source": "ai-native-camp/camp-2",
+      "sourceType": "github",
+      "computedHash": "2e32da9c08ecc15a7ee504988c2b3eaa3d0d0b49da2ee98f81f38ec437273f71"
+    }
+  }
+}
